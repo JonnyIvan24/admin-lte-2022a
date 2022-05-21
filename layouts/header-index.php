@@ -103,6 +103,11 @@
                 </div>
                 <div class="info">
                     <a href="#" class="d-block">Jonathan</a>
+                    <a href="./login.php" class="d-block">
+                        <span class="badge bg-warning">
+                            <i class="fas fa-door-open mr-2"></i>Cerrar sesión
+                        </span>
+                    </a>
                 </div>
             </div>
 
